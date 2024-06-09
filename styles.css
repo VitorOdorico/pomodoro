@@ -19,6 +19,21 @@
     --main-bg-color: linear-gradient(180deg, #1875E9 0%, #041832 48.44%, #01080E 100%);
 }
 
+
+
+
+.foco{
+    background-color: #8c1ff846;
+}
+
+.descanso-curto{
+    background-color: linear-gradient(180deg, #0F725C 0%, #041832 48.44%, #01080E 100%);
+}
+
+.descanso-longo{
+   background-color: linear-gradient(180deg, #1875E9 0%, #041832 48.44%, #01080E 100%);
+}
+
 * {
     box-sizing: border-box;
     max-width: 100%;
